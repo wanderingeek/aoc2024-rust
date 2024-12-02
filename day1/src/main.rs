@@ -2,7 +2,7 @@ use std::fs::File;
 use std::io::{BufRead, BufReader};
 
 // "test_inputs" or "real_inputs"
-const INPUT_FILE_PATH: &str = "test_inputs/day1.txt";
+const INPUT_FILE_PATH: &str = "real_inputs/day1.txt";
 const SEPARATOR: &str = "   "; // Three spaces
 
 fn main() {
